@@ -202,7 +202,9 @@
     clothingVisuals:
       breast:
       - state: equipped-BREAST
-        color: "#FBC72D"#---------------------BraNeko----------------------
+        color: "#FBC72D"
+
+#---------------------BraNeko----------------------
 
 - type: entity
   parent: LPPClothingBreastBase
