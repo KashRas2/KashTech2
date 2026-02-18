@@ -3,7 +3,7 @@
   equipment:
     socks: LPPClothingUnderSocksThigh
   groupBy: "socksthigh"
-  
+
 - type: loadout
   id: LPClothingUnderSocksThighBlack
   equipment:
