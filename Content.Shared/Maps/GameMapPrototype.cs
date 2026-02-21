@@ -1,8 +1,10 @@
+using System.Linq;
 using JetBrains.Annotations;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 using System.Diagnostics;
 using Content.Shared.Station;
+using Robust.Shared.Random;
 
 namespace Content.Shared.Maps;
 
@@ -43,6 +45,11 @@ public sealed partial class GameMapPrototype : IPrototype
     /// </summary>
     [DataField(required: true)]
     public ResPath MapPath { get; private set; } = default!;
+
+    // LP edit start
+    [DataField]
+    public List<ResPath> MapPaths { get; private set; } = new();
+    // LP edit end
 
     [DataField("stations", required: true)]
     private Dictionary<string, StationConfig> _stations = new();
