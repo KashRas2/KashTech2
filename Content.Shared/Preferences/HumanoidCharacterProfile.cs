@@ -825,7 +825,7 @@ namespace Content.Shared.Preferences
 
         // Corvax-TTS-Start
         // SHOULD BE NOT PUBLIC, BUT....
-        public static bool CanHaveVoice(TTSVoicePrototype voice, Sex sex, ProtoId<SpeciesPrototype> species, int sponsorTier = 0)
+        public static bool CanHaveVoice(TTSVoicePrototype voice, Sex sex, ProtoId<SpeciesPrototype> species, int sponsorTier = 0) // LP edit
         {
             // LP edit start
             if (voice.SpeciesBlacklist.Contains(species))
