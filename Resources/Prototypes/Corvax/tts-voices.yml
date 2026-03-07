@@ -185,7 +185,7 @@
   speaker: sentrybot
   id: sentrybot
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-moira_brown
@@ -217,7 +217,7 @@
   speaker: mister_handy_fl3
   id: mister_handy_fl3
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-mister_gutsy_fl3
@@ -411,7 +411,7 @@
   speaker: glados
   id: glados
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-adventure_core
@@ -419,7 +419,7 @@
   speaker: adventure_core
   id: adventure_core
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-fact_core
@@ -427,7 +427,7 @@
   speaker: fact_core
   id: fact_core
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-space_core
@@ -435,7 +435,7 @@
   speaker: space_core
   id: space_core
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-turret_floor
@@ -443,7 +443,7 @@
   speaker: turret_floor
   id: turret_floor
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-geralt
@@ -698,7 +698,7 @@
   speaker: skippy
   id: skippy
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-jackie
@@ -718,7 +718,7 @@
   speaker: brendan
   id: brendan
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-nancy_hartley
@@ -842,7 +842,7 @@
   speaker: adjutant
   id: adjutant
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-hanson
@@ -1585,7 +1585,7 @@
   speaker: guard_assassin_dow
   id: guard_assassin_dow
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-guard_captain_dow
@@ -1644,7 +1644,7 @@
   speaker: guard_psyker_dow
   id: guard_psyker_dow
   speciesWhitelist:
-  - IPC
+  - Ipc
 
 - type: ttsVoice
   name: tts-voice-name-orks_dow
