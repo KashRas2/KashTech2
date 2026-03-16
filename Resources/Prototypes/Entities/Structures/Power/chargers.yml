@@ -201,6 +201,7 @@
         blacklist:
           tags:
           - PotatoBattery
+          - ADTMegaCell # ADT-Tweak
 
 - type: entity
   parent: [ BaseItemRecharger, BaseWallmount ]
