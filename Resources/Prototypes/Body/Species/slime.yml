@@ -88,6 +88,8 @@
       Eyes: OrganHumanEyes #LP edit
   - type: HumanoidProfile
     species: SlimePerson
+  - type: FootprintOwner # starcup
+    footprint: slimeFootprint # starcup
 
 - type: entity
   parent:

@@ -158,6 +158,8 @@
       Kidneys: OrganVoxKidneys
   - type: HumanoidProfile
     species: Vox
+  - type: FootprintOwner # starcup
+    footprint: lizardFootprint # starcup
 
 - type: entity
   parent:
